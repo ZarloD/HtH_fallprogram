@@ -2,12 +2,12 @@ A dataset that provides the name, sales, series, release date, genre, developer,
 
 Some questions I would like to think about:
 
-Which series saw the highest sales?
-What genre is the highest selling?
-What genre is the lowest selling?
-What year saw the highest sales of PC games?
-What year saw the lowest sales?
-When did certain developers and publishers see their highest sales?
-What game sold the most?
-Do publishers lean towards a certain genre?
-What is the highest selling game?
+What is the highest selling game of all time?
+What is the all time highest selling series on PC?
+What is the all time highest selling genre on PC?
+What year saw the highest PC game sales?
+What month do PC games sell the most?
+Do publishers work with certain developers more than others?
+Which developers have the most genre diversity?
+When did each genre see the most game releases?
+What time of the year do games usually release?
